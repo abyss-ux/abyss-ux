@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Tushar Karki</h1>
 
-<!--
-**abyss-ux/abyss-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+💻 Full Stack Developer | ☁️ Cloud Enthusiast | 🇯🇵 Aspiring Software Engineer
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+🎓 B.Tech CSE @ Delhi Technological University (DTU)
+
+📚 Currently in 3rd Year
+
+💻 Learning Backend Development with Node.js & Express
+
+🧠 Solving DSA in C++
+
+☁️ Exploring Cloud Computing
+
+🇯🇵 Goal: Software Engineer in Japan
+
+---
+
+## 🛠 Tech Stack
+
+Coming Soon 🚀
+
+---
+
+## 📊 GitHub Stats
+
+Coming Soon 📈
+
+---
+
+## 🏆 Coding Profiles
+
+Coming Soon 🏅
+
+---
+
+## 📌 Featured Projects
+
+Coming Soon ⭐
