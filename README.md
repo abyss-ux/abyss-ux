@@ -72,7 +72,43 @@
 - 💻 Building Backend Applications with Node.js & Express
 
 ---
+## 🚀 Featured Projects
 
-## 📌 Featured Projects
+### 🔐 User Authentication System
 
-Coming Soon ⭐
+A secure backend authentication system implementing user registration, login, JWT-based authorization, and protected routes.
+
+**Tech Stack**
+
+`Node.js` • `Express.js` • `JavaScript`
+
+<p>
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+🔗 URL Shortener (In Development)
+
+Building a scalable URL shortening service.
+
+Progress: ███░░░░░░ 30%
+
+---
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/tushar-karki-a81061319/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:tusharkarki1606@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/abyss-ux">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
