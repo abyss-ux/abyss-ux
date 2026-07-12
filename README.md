@@ -72,6 +72,20 @@
 - 💻 Building Backend Applications with Node.js & Express
 
 ---
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/abyss-ux/abyss-ux/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/abyss-ux/abyss-ux/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation"
+      src="https://raw.githubusercontent.com/abyss-ux/abyss-ux/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</p>
+
+---
 ## 🚀 Featured Projects
 
 ### 🔐 User Authentication System
