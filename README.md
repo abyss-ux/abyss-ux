@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tushar Karki</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=2ECC71&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%8E%93+B.Tech+CSE+Student+%40+DTU;Backend+Development;DSA+in+C%2B%2B;Learning+Cloud+Computing;Aspiring+Software+Engineer+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=2ECC71&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%8E%93+B.Tech+CSE+Student+%40+DTU;Backend+Developer;DSA+in+C%2B%2B;Learning+Cloud+Computing;Aspiring+Software+Engineer+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" /></a>
 </p>
 
 
@@ -13,7 +13,7 @@
 - 🎓 B.Tech CSE Student @ Delhi Technological University (DTU)
 - 📚 3rd Year (2026–2027)
 - 💻 Building Backend Applications with Node.js & Express
-- 🧠 Solved 280+ LeetCode Problems in C++
+- 🧠 Solved 300+ LeetCode Problems in C++
 - ☁️ Currently Learning Cloud Computing
 - 🇯🇵 Aspiring Software Engineer in Japan
 ---
@@ -65,9 +65,9 @@
 
 
 
-- 🧠 Solved **282+ LeetCode** problems
-- 🏅 LeetCode Contest Rating: **1460**
-- ⚡ Codeforces Rating: **919** *(Newbie)*
+- 🧠 Solved **300+ LeetCode** problems
+- 🏅 LeetCode Contest Rating: **1522**
+- ⚡ Codeforces Rating: **980** *(Newbie)*
 - 🎓 B.Tech CSE Student @ DTU
 - 💻 Building Backend Applications with Node.js & Express
 
