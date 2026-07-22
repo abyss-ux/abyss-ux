@@ -72,6 +72,18 @@
 - 💻 Building Backend Applications with Node.js & Express
 
 ---
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats-swart-three-98.vercel.app/api?username=abyss-ux&show_icons=true&theme=github_dark&hide_border=true" />
+
+  <img height="170em" src="https://streak-stats.demolab.com?user=abyss-ux&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="42%" src="https://github-readme-stats-swart-three-98.vercel.app/api/top-langs/?username=abyss-ux&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+---
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
